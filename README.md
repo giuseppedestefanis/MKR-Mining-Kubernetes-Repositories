@@ -54,8 +54,7 @@ This sample dataset contains **41,000 records** across 4 CSV files, representing
 
 ## 🔒 **Anonymization Details**
 
-### **Complete Privacy Protection**
-- ✅ **Zero PII**: No personally identifiable information remains
+### **Privacy Protection**
 - ✅ **Consistent Hashing**: All `author_id` fields use SHA256 + salt  
 - ✅ **Anonymized Names**: `contributor_XXXXX` for humans, `bot_XXXXX` for bots
 - ✅ **Content Preserved**: Issue/PR/comment content maintained for research
